@@ -1,4 +1,4 @@
-[![Header]([https://coverfiles.alphacoders.com/443/44333.jpg](https://images.squarespace-cdn.com/content/v1/58aac884725e25c4fababc32/1585410395808-RQKHSEVMZMOVRCKSTOST/image-asset.jpeg?format=1000w) "Header")](https://github.com/Soot3)
+![Header](https://images.squarespace-cdn.com/content/v1/58aac884725e25c4fababc32/1585410395808-RQKHSEVMZMOVRCKSTOST/image-asset.jpeg?format=1000w)
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Sooter Saalu, I am a Data Professional (Analytics & Engineering) with a post graduate degree in psychology and interests in building and deploying data science solutions. Feel Free to explore, you can reach me on [![LinkedIn][3.2]][3]
 
